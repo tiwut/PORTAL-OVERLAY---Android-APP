@@ -20,7 +20,7 @@ An Android overlay launcher that allows you to access your favorite apps and set
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/overlay-launcher.git
+   git clone https://github.com/tiwut/PORTAL-OVERLAY---Android-APP.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
@@ -39,13 +39,6 @@ An Android overlay launcher that allows you to access your favorite apps and set
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) - UI framework.
 - [Room](https://developer.android.com/training/data-storage/room) - Local database.
 - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - Asynchronous programming.
-
-### Building
-
-To build the project from the command line, use:
-```bash
-./gradlew assembleDebug
-```
 
 ## Security & Privacy
 
