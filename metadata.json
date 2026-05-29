@@ -1,0 +1,6 @@
+{
+  "name": "Overlay Launcher",
+  "description": "A customizable, glassmorphic floating window home screen launched from Quick Settings, featuring drag-and-drop icon arrangement and custom folder organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
